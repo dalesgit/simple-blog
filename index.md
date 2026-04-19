@@ -6,7 +6,7 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). *I fashioned this simple site from fast-ai's template. Posts will appear after this file.*
 
-Several links for my work:
+Several links for my work:\
     <https://sermons-fr-hathaway.blogspot.com/>\
     <https://daleshi5-lent-2014.blogspot.com/>\
     <https://dalehathaway.substack.com/publish/posts/published>
