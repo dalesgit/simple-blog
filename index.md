@@ -10,3 +10,4 @@ Several links for my work:\
     <https://sermons-fr-hathaway.blogspot.com/>\
     <https://daleshi5-lent-2014.blogspot.com/>\
     <https://dalehathaway.substack.com/publish/posts/published>
+	<https://daleshi5word.wordpress.com/>
