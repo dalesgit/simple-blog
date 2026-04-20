@@ -9,5 +9,5 @@ And you can include links, like this [link to fast.ai](https://www.fast.ai). *I 
 Several links for my work:\
     <https://sermons-fr-hathaway.blogspot.com/>\
     <https://daleshi5-lent-2014.blogspot.com/>\
-    <https://dalehathaway.substack.com/publish/posts/published>
+    <https://dalehathaway.substack.com/>
 	<https://daleshi5word.wordpress.com/>
